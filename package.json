@@ -1,0 +1,18 @@
+{
+  "name": "string",
+  "version": "0.0.1",
+  "description": "longitud del string",
+  "main": "stringapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"string",
+    "length\""
+  ],
+  "author": "yo misma",
+  "license": "ISC",
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  }
+}
